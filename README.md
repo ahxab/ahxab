@@ -40,6 +40,6 @@ Active member of both the **National Digital Youth Team** and the **National Cli
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn URL]  
+- LinkedIn: []  
 - GitHub: [github.com/YourUsername](https://github.com/YourUsername)  
 - Instagram (Technical Content): [instagram.com/_o60](https://instagram.com/_o60)
